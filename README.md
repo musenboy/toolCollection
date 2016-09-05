@@ -22,7 +22,7 @@ Mockplus 也是一款快速原型设计工具。
 
 1. fresco： 
 
--https://github.com/facebook/fresco
+- https://github.com/facebook/fresco
 
 2. picasso：
 
