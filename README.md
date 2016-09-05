@@ -23,12 +23,12 @@ Mockplus 也是一款快速原型设计工具。
 1. fresco： https://github.com/facebook/fresco
 
 2. picasso：
-官网：http://square.github.io/picasso/
-github： https://github.com/square/picasso
+- 官网：http://square.github.io/picasso/
+- github： https://github.com/square/picasso
 
 相关：
-http://blog.csdn.net/zhangfei2018/article/details/49927729
-http://www.codeceo.com/article/facebook-android-fresco-2.html
+- http://blog.csdn.net/zhangfei2018/article/details/49927729
+- http://www.codeceo.com/article/facebook-android-fresco-2.html
 
 
 
