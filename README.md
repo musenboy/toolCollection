@@ -34,6 +34,11 @@ picasso：
 - http://www.codeceo.com/article/facebook-android-fresco-2.html
 
 
+## 网络请求库
 
+okhttp
+
+- 官网：http://square.github.io/okhttp/
+- github：https://github.com/square/okhttp
 
 
