@@ -20,9 +20,12 @@ Mockplus 也是一款快速原型设计工具。
 
 ## Android图片缓存库
 
-1. fresco： https://github.com/facebook/fresco
+1. fresco： 
+
+-https://github.com/facebook/fresco
 
 2. picasso：
+
 - 官网：http://square.github.io/picasso/
 - github： https://github.com/square/picasso
 
