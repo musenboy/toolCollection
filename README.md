@@ -39,6 +39,16 @@ picasso：
 - http://blog.csdn.net/zhangfei2018/article/details/49927729
 - http://www.codeceo.com/article/facebook-android-fresco-2.html
 
+## 架构
+
+RESTful
+
+- https://en.wikipedia.org/wiki/Representational_state_transfer
+- http://www.ruanyifeng.com/blog/2014/05/restful_api.html
+- http://www.ruanyifeng.com/blog/2011/09/restful.html
+- http://www.ruanyifeng.com/blog/2014/02/ssl_tls.html
+- https://codeplanet.io/principles-good-restful-api-design/
+- https://bourgeois.me/rest/
 
 ## 网络请求库
 
