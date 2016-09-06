@@ -43,6 +43,7 @@ picasso：
 
 RESTful
 
+- http://code.taobao.org/p/data_project/src/trunk/Fielding-PhD-thesis-on-REST.pdf?orig
 - https://en.wikipedia.org/wiki/Representational_state_transfer
 - http://www.ruanyifeng.com/blog/2014/05/restful_api.html
 - http://www.ruanyifeng.com/blog/2011/09/restful.html
