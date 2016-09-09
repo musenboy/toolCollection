@@ -82,3 +82,7 @@ iOS
 
 - http://www.waitsun.com/
 
+## idea激活
+
+- http://idea.lanyus.com/
+
